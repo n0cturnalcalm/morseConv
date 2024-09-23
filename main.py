@@ -1,5 +1,3 @@
-## change text to morse:    enter a string. for each character, add morse exchange of them. end of the program generate a mp3 file that morse version of entered text.
-
 MORSE_CODE_DICT = { 'A':'.-', 'B':'-...',
                     'C':'-.-.', 'D':'-..', 'E':'.',
                     'F':'..-.', 'G':'--.', 'H':'....',
